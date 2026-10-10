@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Sitemap: https://hacker906-apps.github.io/apps/sitemap.xml
