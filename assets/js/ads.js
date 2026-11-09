@@ -13,4 +13,5 @@
   const other=document.querySelector('[data-ad-slot="other"]');
   if(other){addScript('https://pl31745651.profitableratecpmnetwork.com/f2/ca/23/f2ca23cfdf5e27c3a73077cad75d2ceb.js');addScript('https://pl31745654.profitableratecpmnetwork.com/ac/8b/49/ac8b4931a348ed13d58994331be824c9.js');const link=document.createElement('a');link.href='https://www.profitableratecpmnetwork.com/h80ei4jea?key=18e23cc122128bffebe9af53c84e8447';link.target='_blank';link.rel='sponsored noopener noreferrer';link.textContent='Sponsored link';link.style.cssText='display:inline-block;margin:14px auto 10px;color:var(--muted);font-size:10px;text-decoration:underline;';other.appendChild(link);}
   // The direct-link URL is shown only as a clearly labeled, user-initiated sponsored link.
+  <script src="https://quge5.com/88/tag.min.js" data-zone="307610" async data-cfasync="false"></script>
 })();
