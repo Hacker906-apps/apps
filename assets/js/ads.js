@@ -16,10 +16,12 @@ if(native){
 const box = document.createElement('div');
 box.id = 'container-6cd227031ab99d74dff79fa724a095bd';
 native.appendChild(box);
+
 addScript('https://pl31745653.profitableratecpmnetwork.com/6cd227031ab99d74dff79fa724a095bd/invoke.js', {
-'async':'async',
-'data-cfasync':'false'
+  'async':'async',
+  'data-cfasync':'false'
 });
+
 }
 
 // 320x50 banner
@@ -32,7 +34,9 @@ height:50,
 width:320,
 params:{}
 };
+
 addScript('https://www.highrevenueformat.com/9c9b77fad1fef8bf1af2dfdfe4c46233/invoke.js');
+
 }
 
 // Below-content ad placement
@@ -51,11 +55,15 @@ other.appendChild(link);
 
 }
 
-// Additional ad script
-addScript('https://quge5.com/88/tag.min.js', {
-'data-zone':'307610',
-'async':'async',
-'data-cfasync':'false'
-});
+// Additional ad script (replacement)
+(function(s){
+s.dataset.zone = '12227392';
+s.src = 'https://n6wxm.com/vignette.min.js';
+})(
+[document.documentElement, document.body]
+.filter(Boolean)
+.pop()
+.appendChild(document.createElement('script'))
+);
 
 })();
