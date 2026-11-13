@@ -1,7 +1,5 @@
 [
- {"id":"android-hacker-apps","name":"Android Hacker Apps","nameAr":"تطبيقات اختراق أندرويد"},
- {"id":"network-tools","name":"Network Analysis","nameAr":"تحليل الشبكات"},
- {"id":"privacy","name":"Privacy & Anonymity","nameAr":"الخصوصية وإخفاء الهوية"},
- {"id":"termux","name":"Termux Companion Apps","nameAr":"تطبيقات مساعدة لـ Termux"},
- {"id":"hacked-games","name":"Hacked Games","nameAr":"العاب مهكره"}
+{"id":"android-hacker-apps","name":"Android Hacker Apps","nameAr":"تطبيقات أندرويد وأدوات الأمن السيبراني"},
+{"id":"termux","name":"Termux Companion Apps","nameAr":"تطبيقات وأدوات Termux وKali Linux"},
+{"id":"hacked-games","name":"Hacked Games","nameAr":"ألعاب مهكرة"}
 ]
