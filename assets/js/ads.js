@@ -1,3 +1,4 @@
+
 /* Ad network placements. Scripts are inserted once per page; keep the supplied URLs unchanged. */
 (function(){
 const slots = document.querySelectorAll('[data-ad-slot]');
@@ -21,7 +22,6 @@ addScript('https://pl31745653.profitableratecpmnetwork.com/6cd227031ab99d74dff79
   'async':'async',
   'data-cfasync':'false'
 });
-
 }
 
 // 320x50 banner
@@ -36,7 +36,6 @@ params:{}
 };
 
 addScript('https://www.highrevenueformat.com/9c9b77fad1fef8bf1af2dfdfe4c46233/invoke.js');
-
 }
 
 // Below-content ad placement
@@ -52,18 +51,6 @@ link.rel = 'sponsored noopener noreferrer';
 link.textContent = 'Sponsored link';
 link.style.cssText = 'display:inline-block;margin:14px auto 10px;color:var(--muted);font-size:10px;text-decoration:underline;';
 other.appendChild(link);
-
 }
-
-// Additional ad script (replacement)
-(function(s){
-s.dataset.zone = '12227392';
-s.src = 'https://n6wxm.com/vignette.min.js';
-})(
-[document.documentElement, document.body]
-.filter(Boolean)
-.pop()
-.appendChild(document.createElement('script'))
-);
 
 })();
